@@ -1,0 +1,92 @@
+<resources>
+    <string name="stock">Sesuai orderan pelanggan</string>
+    <string name="bahan_bahan">Bahan-bahan:</string>
+    <string name="bumbu_sangrai">Bumbu Sangrai:</string>
+    <string name="bumbu_halus">Bumbu Halus:</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Gina Sahiba</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">Rp.12000</string>
+    <string name="dummy_photos">3 photos</string>
+    <string name="bahan_bahan1">Bahan-bahan:</string>
+    <string name="bumbu_halus1">Bumbu Halus:</string>
+    <string name="bumbu_olesan">Bumbu Olesan:</string>
+    <string name="ayam_goreng">Ayam Goreng</string>
+    <string name="ayam_bakar">Ayam Bakar</string>
+
+    <string name="app_name">Penjualan Berbagai Macam ayam</string>
+
+    <string name="content_text"> merupakan hidangan yang dibuat dari potongan
+        daging ayam yang telah dilapisi dengan tepung atau adonan encer yang dibumbui dan
+        digoreng, digoreng rendam, digoreng dengan penggorengan bertekanan, atau digoreng udara.
+        Penepungan menambahkan lapisan renyah atau kerak ke bagian luar ayam sekaligus mempertahankan
+        kelembutan dan air dalam daging. Ayam goreng biasanya dibuat dari daging ayam broiler.
+        Hidangan pertama yang diketahui telah digoreng adalah gorengan dari Abad Pertengahan Eropa.
+        Namun, orang Skotlandia adalah orang Eropa pertama yang menggoreng ayam dengan lemak
+        (meskipun tanpa bumbu). Sementara itu, banyak masyarakat Afrika Barat memiliki tradisi ayam
+        goreng yang dibumbui (daging ayam dibungkus adonan dan dimasak dengan minyak kelapa sawit).
+        Teknik menggoreng Skotlandia dan teknik bumbu Afrika Barat digabungkan oleh orang Afrika
+        yang diperbudak dan orang Afrika-Amerika di daerah selatan Amerika Serikat. </string>
+
+    <string name="content_space_bahan_bahan">
+        - 1 ekor Ayam, Potong sesuai selera\n
+        - 2 butir Telur,kocok\n
+        - 2 sdm Tepung Beras\n
+        - 2 sdm Tepung Jagung\n
+        - 5 sdm Bubuk Kari\n
+        - 1 sdm Bubuk Kunyit\n
+        - 1/2 sdm Bubuk Cabe (jika suka pedas bisa tambahkan lagi)\n
+        - Secukupnya Daun Kari Koja\n
+        - Secukupnya Garam\n
+        - Secukupnya Gula\n
+        - Secukupnya Kaldu Jamur\n
+    </string>
+
+    <string name="content_space_bumbu_sangrai">
+        - 2 sdt Bubuk Jintan Putih\n
+        - 2 sdt Bubuk Ketumbar\n
+    </string>
+
+    <string name="content_space_bumbu_halus">
+        - 10 bh Bawang Merah\n
+        - 6 bh Bawang Putih\n
+        - 5 batang Serai\n
+        - 1 ruas Kunyit\n
+        - 2 ruas Jahe\n
+        - 1 ruas Lengkuas
+    </string>
+
+    <string name="content_text1">Adalah makanan olahan yang berasal dari bahan utama berupa ayam yang dibakar dengan bumbu madu.
+        Bahan yang berupa madu menghasilkan rasa yang unik yaitu rasa manis dan gurih. Olahan Ayam ini merupakan olahan ayam yang
+        merupakan perkembangan dari ayam goreng yang biasa dijual dipasaran tetapi diberikan inovasi dengan ditambahkan bahan tambahan berupa madu.
+        Komposisi bahan madu yang meresap sangat dalam ke daging ayam membuat tekstur daging bakar madu menjadi lebih terasa empuk dan bumbu lebih
+        meresap hingga kedalam daging ayam. Apalagi, aroma ayam bakar madu memiliki aroma yang khas dan lebih kuat dibandingkan ayam bakar lainnya
+        sehingga menggugah selera makan yang ingin memakannya.</string>
+
+    <string name="content_space_bahan_bahan1">
+        - 1 ekor ayam kampung,kemudian potong ayam menjadi 4 bagian yang kira-kira sama rata.\n
+        - Lengkuas sepanjang 2 cm lalu dimemarkan.\n
+        - Jahe sepanjang 1 cm kemudian memarkan.\n
+        - Asam jawa 1 1/2 sendok teh.\n
+        - 1 1/2 sdm gula jawa.\n
+        - madu 4 sendok makan.\n
+        - penyedap rasa 1 sendok teh.\n
+        - garam 1 sendok makan.\n
+        - air bersih kira-kira 1 liter.\n
+    </string>
+    
+    <string name="content_space_bumbu_halus1">
+        - bawang merah sebanyak 6 butir.\n
+        - bawang putih sebanyak 4 siung .\n
+        - Kunyit Sepanjang kira-kira 2 cm.\n
+        - ketumbar sebanyak 1/2 sendok teh.\n
+        - lada sebanyak 1/2 sendok teh.\n
+    </string>
+
+    <string name="content_space_bumbu_olesan">
+        - air jeruk nipis sebanyak 1 sendok makan.\n
+        - margarin yang sudah dicairkan sebanyak 1 sendok makan.\n
+        - kecap manis 1 sendok makan.\n
+        - madu 3 sendok makan.\n
+    </string>
+</resources>
